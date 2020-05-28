@@ -8,7 +8,7 @@ Screenshots of the DVD inlay files opened in Nero CoverDesigner are included (NO
 battlefield_dvd_inlay_britain_stalingrad_opened_in_neroCoverDesigner.jpg and .psd  
 battlefield_dvd_inlay_midway_normandy_opened_in_neroCoverDesigner.jpg and .psd  
 
-The actual Nero CoverDesigner files (.ncd) are included:  
+The Nero CoverDesigner files (.ncd) are included:  
 battlefield_dvd_inlay_britain_stalingrad.ncd  
 battlefield_dvd_inlay_midway_normandy.ncd
 
