@@ -12,7 +12,7 @@ The actual Nero CoverDesigner files (.ncd) are included:
 battlefield_dvd_inlay_britain_stalingrad.ncd  
 battlefield_dvd_inlay_midway_normandy.ncd
 
-In short, to print the DVD inlay; 1.) install Nero CoverDesigner free, 2.) open .ncd file in Nero CoverDesigner, 3.) to see the DVD inlay, click bottom left DVD Inlay tab, 4.) click File | Paper Stocks | select your paper, and 5.) click File | Print. All three items (ie, DVD Inlay, DVD Booklet, and Disc 1) print out. The DVD Inlay prints as expected. The DVD Booklet and Disc 1 print blank outlines.
+In short, to print the DVD inlay: 1.) install Nero CoverDesigner free, 2.) open .ncd file in Nero CoverDesigner, 3.) to see the DVD inlay, click bottom left DVD Inlay tab, 4.) click File | Paper Stocks | select your paper, and 5.) click File | Print. All three items (ie, DVD Inlay, DVD Booklet, and Disc 1) print out. The DVD Inlay prints as expected. The DVD Booklet and Disc 1 print blank outlines.
 
 Or use the included scans to make your own.
 
