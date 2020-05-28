@@ -4,7 +4,7 @@ The Battlefield VHS packaging was scanned to make DVD inlays in Nero CoverDesign
 
 Nero CoverDesigner is used to create custom disc labels, jewel case inlays, booklets and much more for your CDs, DVDs and Blu-ray Discs. Nero CoverDesigner is typically, but not always, bundled with Nero Platinum. Because Nero CoverDesigner was not always bundled with Nero Platinum, Nero decided to provide Nero CoverDesigner as a free standalone installer at https://www.nero.com/enu/downloads/. Scroll down the page to find it.
 
-Screenshots of DVD inlay files opened in Nero CoverDesigner are included (NOTE: Near bottom left of screenshot, DVD Inlay tab is selected. DVD Booklet and Disc 1 were not made.):
+Screenshots of the DVD inlay files opened in Nero CoverDesigner are included (NOTE: Near bottom left of screenshot, DVD Inlay tab is selected. DVD Booklet and Disc 1 were not made.):
 battlefield_dvd_inlay_britain_stalingrad_opened_in_neroCoverDesigner.jpg and .psd
 battlefield_dvd_inlay_midway_normandy_opened_in_neroCoverDesigner.jpg and .psd
 
